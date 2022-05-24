@@ -1,0 +1,33 @@
+table {
+    border: rgb(0, 162, 255) 1px solid;
+}
+
+th, td{
+    padding: 5px;
+    border: rgba(0, 195, 255, 0.979) 1px solid;
+    margin: 0px;
+}
+
+.headers{
+    background-color: rgb(33, 95, 8);
+    color: chartreuse;
+}
+
+.headers_inst{
+    background-color: rgb(33, 95, 8);
+    color: chartreuse;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.row_1{
+    background-color: chartreuse;
+}
+
+.row_2{
+    background-color: rgba(48, 92, 4, 0.747);
+}
+
+.centrat{
+    text-align: center;
+}

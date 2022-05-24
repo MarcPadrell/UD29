@@ -1,0 +1,48 @@
+*{
+    font-weight: bolder;
+}
+
+table {
+    border: rgb(73, 73, 73, 0.979) 2px solid;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    position: relative;
+}
+
+th, td{
+    padding: 5px;
+    border: rgba(73, 73, 73, 0.979) 2px solid;
+}
+
+#celda_1{
+    background-color: rgb(111, 233, 62);
+}
+
+#celda_2{
+    background-color: aqua;
+    text-align: left;
+}
+
+.celda_6{
+    background-color: pink;
+    text-align: right;
+    bottom: 50px;
+}
+
+.celda_6 span{
+    position: absolute;
+    bottom: 4px;
+    right: 5px;
+}
+
+.red{
+    color: red;
+}
+
+h3{
+    font-size: 15px;
+    text-align: center;
+    margin: 0px;
+}
+

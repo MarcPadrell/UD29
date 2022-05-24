@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+    color: rgb(71, 42, 14);
+}
+
+table {
+    border: rgb(73, 73, 73, 0.979) 2px solid;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    position: relative;
+}
+
+th, td{
+    padding: 5px;
+    border: rgba(73, 73, 73, 0.979) 2px solid;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.img_back{
+    background-image: url(../img/t-systems.png);
+}
+
+
+
