@@ -1,0 +1,23 @@
+div {
+    position: absolute;
+    padding-bottom: 120px;
+    padding-right: 100px;
+    width: 100px;
+    height: 50px;
+    background-color: #a3c8eb !important;
+    background: url(../img/f01.png) left bottom repeat-x,
+        url(../img/f02.png) left bottom no-repeat,
+        url(../img/f03.png) left top repeat-x;
+    border: solid blue 2px;
+    position: relative;
+}
+
+.container_1 {
+    position: absolute;
+    padding-top: 120px;
+    padding-left: 100px;
+    margin: 30px;
+    border: solid red 2px;
+    width: 150px;
+    position: relative;
+}
